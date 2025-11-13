@@ -1,2 +1,2 @@
 # AI-porject-road
-This project is an alpha version of autopilot. It is about computer vision that can detect stop signs and cars
+This project is an alpha version of **autopilot**. It is about computer vision that can detect stop signs and cars
